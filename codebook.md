@@ -1,8 +1,9 @@
-##Codebook
-#Variables
+
+##Variables
 The tidy data set has the following variables:
 
 "activity": WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 "subject":1:30                  
 
 "tBodyAcc-mean()-X"    "tBodyAcc-mean()-Y"       "tBodyAcc-mean()-Z"              
