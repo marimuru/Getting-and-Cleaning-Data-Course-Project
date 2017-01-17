@@ -20,11 +20,11 @@ script is divided into the next steps:
 
 2. Read files:
 
-    Test files (x_test.txt, y_test.txt, subject_test.txt)
+    2.1 Test files (x_test.txt, y_test.txt, subject_test.txt)
 
-    Train files (X_train.txt, y_train.txt, subject_train.txt)
+    2.2 Train files (X_train.txt, y_train.txt, subject_train.txt)
 
-    Features (“features.txt”) and activity names (“activity_labels.txt”)
+    2.3 Features (“features.txt”) and activity names (“activity_labels.txt”)
 
 3. Add the labels (y_test and y_train) and the subjects to the datasets
 
